@@ -1,5 +1,5 @@
-Prof, if you're readin this, i hope you start code something with some senses, cause this it's giving me headache only trying to understand this
-after this has been said, I'll go dying in this freaking code trying to work something out
+Prof, if you're readin this, i hope you start code something with some senses, cause this it's giving me headache only trying to understand this.
+after this has been said, I'll go dying in this freaking code trying to work something out.
 This code should simulate a dump with WPF and C#, the most of it is already done but there are some things to adjust/implement.
 Main things to do:
 - graphic's adjustements
